@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **a7mdhanini/a7mdhanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
