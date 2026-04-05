@@ -1,123 +1,116 @@
-# Hi there, I'm Ahmad Al-Hanini 👋
+<div align="center">
 
-## Flutter Developer | FinTech & ERP Solutions
+# Ahmad Al-Hanini
+### Flutter Developer | FinTech & ERP Solutions
 
-I'm a **Flutter Developer** with **4+ years of experience** building cross-platform mobile applications for **FinTech, ERP, and business solutions**.  
-I focus on creating **secure, scalable, and user-friendly apps** with clean architecture and maintainable code.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+FinTech+%26+ERP+Mobile+Apps;Clean+Architecture+Enthusiast;Using+AI+Tools+to+Boost+Development" alt="Typing SVG" />
 
-I also use **AI-assisted development tools** to improve workflows, speed up implementation, and support smarter problem-solving during development.
-
----
-
-## 🚀 About Me
-
-- 📱 Flutter Developer specialized in cross-platform mobile applications
-- 💳 Experienced in **FinTech solutions**, including **banking** and **wallet apps**
-- 🏢 Built **ERP systems** including **HR**, **accounting**, and **warehouse solutions**
-- 🧱 Strong focus on **Clean Architecture** and **modular project structure**
-- 🤝 Comfortable working with cross-functional teams to deliver production-ready features
-- 🛠 Interested in improving development workflows using **AI tools**, **CI/CD**, and modern engineering practices
+</div>
 
 ---
 
-## 💼 Experience Highlights
+## About Me
 
-### **Flutter Developer** — Futeric  
-**Sep 2024 – Present | Amman, Jordan**
-- Developed cross-platform Flutter applications for **FinTech and enterprise solutions**, including **banking**, **wallet**, and **HR ERP systems**
-- Applied **Clean Architecture** and modular structure to build scalable and maintainable applications
-- Worked closely with teams to enhance performance, resolve issues, and deliver reliable production-ready features
+I'm a **Flutter Developer** with **4+ years of experience** building cross-platform mobile applications for **FinTech, ERP, and business solutions**.
 
-### **Flutter Developer** — Glyphs Marketing  
-**Dec 2022 – Apr 2024 | Georgia, USA**
-- Developed Flutter applications for marketing and business use cases
-- Built custom mobile solutions for analytics, data visualization, and campaign workflows
-- Integrated REST APIs and improved app quality through clean development standards
+I focus on creating apps that are:
 
-### **Flutter Developer** — SkyLine Software Company  
-**Sep 2020 – Sep 2022 | Amman, Jordan**
-- Developed mobile applications for **accounting** and **warehouse ERP solutions**
-- Worked directly with clients to understand requirements and deliver tailored business applications
-- Improved usability and user experience through testing, feedback, and continuous enhancement
+- secure
+- scalable
+- maintainable
+- user-friendly
+- production-ready
 
-### **Technical Support / Mobile App Contributor** — Platige Media Production  
-**Oct 2020 – Oct 2021 | Doha, Qatar**
-- Provided technical support and resolved software-related issues
-- Assisted in the development and maintenance of media-focused mobile applications
+I also use **AI-assisted development tools** to speed up workflows, improve productivity, and support smarter implementation.
 
 ---
 
-## 🛠 Tech Stack
+## What I Build
 
-- **Flutter**
-- **Dart**
-- **Clean Architecture**
-- **Modular Architecture**
-- **REST APIs**
-- **Git & GitHub**
-- **CI/CD**
-- **Linux**
-- **AI-Assisted Development Tools**
-- **Python**
-- **Node.js**
+- **FinTech applications**
+  - Banking apps
+  - Wallet apps
 
----
+- **ERP systems**
+  - HR systems
+  - Accounting systems
+  - Warehouse systems
 
-## 📚 Education
-
-**Bachelor’s Degree in Computer Science**  
-Zarqa University  
-**Dec 2018 – Jun 2021**
-
-**Up-Skilling Program**  
-Hussein Technical University  
-**Jun 2021 – Sep 2021**  
-Completed a 360-hour certified program in:
-- Computer Networks (**CCNA**)
-- English Language
-- Employability Soft Skills
+- **Business & marketing apps**
+  - Analytics
+  - Data visualization
+  - Campaign-related mobile solutions
 
 ---
 
-## 📜 Certifications & Courses
+## Tech Stack
 
-- **AI for Project Management** — Udemy *(Feb 2026)*
-- **DevOps** — TechWorld with Nana *(Oct 2025)*
-- **Clean Code** — Udemy *(Aug 2023)*
-- **Node.js: The Complete Guide** — Udemy *(Dec 2022)*
-- **Flutter & Dart: The Complete Guide** — Udemy *(Apr 2021)*
-- **Software Developer Trainee** — App Trainers *(Feb 2021)*
-
----
-
-## 🌍 Languages
-
-- **Arabic** — Native
-- **English** — Professional Working Proficiency
-
----
-
-## 📫 Connect With Me
-
-- **Email:** [a.hanini111@gmail.com](mailto:a.hanini111@gmail.com)
-- **LinkedIn:** [linkedin.com/in/a7md-hanini](https://linkedin.com/in/a7md-hanini)
-- **GitHub:** [github.com/a7mdhanini](https://github.com/a7mdhanini)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modular%20Architecture-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Tools-6A5ACD?style=for-the-badge" />
+</p>
 
 ---
 
-## ⚡ What I Care About
+## Experience Highlights
 
-I enjoy building applications that are:
-- Clean and maintainable
-- Scalable and production-ready
-- Secure and user-focused
-- Helpful for real business needs
+### Futeric
+- Developed Flutter applications for **FinTech and enterprise solutions**
+- Built **banking, wallet, and HR ERP systems**
+- Applied **Clean Architecture** and modular project structure
+- Delivered secure, scalable, and maintainable mobile solutions
+
+### Glyphs Marketing
+- Built cross-platform mobile applications for marketing and business use cases
+- Worked on analytics and data visualization features
+- Integrated REST APIs and improved app quality through clean coding practices
+
+### SkyLine Software Company
+- Developed mobile applications for **accounting** and **warehouse ERP systems**
+- Worked closely with clients to deliver tailored business solutions
+- Improved usability through testing and continuous enhancement
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-- Building better **Flutter architectures**
-- Improving development speed with **AI tools**
-- Learning more about **DevOps**, **CI/CD**, and modern delivery workflows
-- Creating polished mobile experiences for **FinTech** and **business systems**
+- Building better Flutter architectures
+- Improving workflows with **AI tools**
+- Learning more about **DevOps** and **CI/CD**
+- Creating polished mobile experiences for real business needs
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7mdhanini&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7mdhanini&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="mailto:a.hanini111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/a7md-hanini">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/a7mdhanini">
+    <img src="https://img.shields.io/badge/GitHub-a7mdhanini-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
