@@ -1,6 +1,6 @@
 <div align="center">
-
-# أحمد الحنيني | Ahmad Al-Hanini
+  
+                      Ahmad Al-Hanini
 
 ### Flutter Developer • Mobile Apps • Clean Architecture • AI-Powered Workflows
 
