@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22"> About Me
+## 🚀 About Me
 
 I'm a **Flutter Developer** with **4+ years of experience** building cross-platform mobile applications for **FinTech, ERP, and business solutions**.
 
@@ -41,7 +41,7 @@ I also use **AI-assisted development tools** to improve workflow, speed up imple
 
 ---
 
-## 🚀 What I Build
+## 💼 What I Build
 
 <table>
 <tr>
@@ -94,64 +94,6 @@ I also use **AI-assisted development tools** to improve workflow, speed up imple
 <img src="https://img.shields.io/badge/AI%20Tools-6A5ACD?style=for-the-badge" />
 
 </div>
-
----
-
-## 💼 Experience Highlights
-
-### **Futeric** — Flutter Developer  
-**Sep 2024 – Present | Amman, Jordan**
-- Developed cross-platform Flutter applications for **FinTech and enterprise solutions**, including **banking, wallet, and HR ERP systems**
-- Applied **Clean Architecture** and modular project structure to build secure, scalable, and maintainable applications
-- Worked closely with cross-functional teams to enhance performance, resolve issues, and deliver reliable production-ready features
-
-### **Glyphs Marketing** — Flutter Developer  
-**Dec 2022 – Apr 2024 | Georgia, USA**
-- Developed cross-platform Flutter applications for marketing and business solutions
-- Built custom mobile features supporting analytics, data visualization, and campaign workflows
-- Integrated REST APIs and improved code quality through clean development practices
-
-### **SkyLine Software Company** — Flutter Developer  
-**Sep 2020 – Sep 2022 | Amman, Jordan**
-- Developed mobile applications for accounting and warehouse ERP solutions
-- Worked directly with clients to gather requirements and deliver tailored business applications
-- Improved usability and user experience through testing, feedback, and continuous improvement
-
-### **Platige Media Production** — Technical Support / Mobile App Contributor  
-**Oct 2020 – Oct 2021 | Doha, Qatar**
-- Delivered technical support to end-users and resolved software-related issues
-- Assisted in the development and maintenance of media-focused mobile applications
-
----
-
-## 📚 Education
-
-### Bachelor’s Degree in Computer Science
-**Zarqa University**  
-**Dec 2018 – Jun 2021**
-
-### Up-Skilling Program
-**Hussein Technical University**  
-**Jun 2021 – Sep 2021**  
-Completed a 360-hour certified program in **CCNA, English Language, and Employability Soft Skills**
-
----
-
-## 📜 Certifications & Courses
-
-- **AI for Project Management** — Udemy *(Feb 2026)*
-- **DevOps** — TechWorld with Nana *(Oct 2025)*
-- **Clean Code** — Udemy *(Aug 2023)*
-- **Node.js: The Complete Guide** — Udemy *(Dec 2022)*
-- **Flutter & Dart: The Complete Guide** — Udemy *(Apr 2021)*
-- **Software Developer Trainee** — App Trainers *(Feb 2021)*
-
----
-
-## 🌍 Languages
-
-- **Arabic** — Native
-- **English** — Professional Working Proficiency
 
 ---
 
