@@ -1,64 +1,123 @@
-<div align="center">
-  
-                      Ahmad Al-Hanini
+# Hi there, I'm Ahmad Al-Hanini 👋
 
-### Flutter Developer • Mobile Apps • Clean Architecture • AI-Powered Workflows
+## Flutter Developer | FinTech & ERP Solutions
 
-<p>
-  <a href="mailto:a.hanini111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/a7md-hanini">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/a7mdhanini">
-    <img src="https://img.shields.io/badge/GitHub-a7mdhanini-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I'm a **Flutter Developer** with **4+ years of experience** building cross-platform mobile applications for **FinTech, ERP, and business solutions**.  
+I focus on creating **secure, scalable, and user-friendly apps** with clean architecture and maintainable code.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer+with+4%2B+Years+of+Experience;Building+Modern+%26+Scalable+Mobile+Apps;Clean+Code+%7C+Great+UI+%7C+Real+Business+Solutions;AI+Tools+%7C+Agents+%7C+Automation+Workflows" alt="Typing SVG" />
-
-</div>
+I also use **AI-assisted development tools** to improve workflows, speed up implementation, and support smarter problem-solving during development.
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I’m a **Flutter Developer** with **4+ years of experience** building modern, scalable, and user-friendly mobile applications.
-
-I focus on creating apps that are not only visually polished, but also maintainable, secure, and aligned with real business needs. I enjoy turning ideas into high-quality products using clean architecture, reusable components, and solid development practices.
-
-I also work very effectively with **AI tools, agents, and intelligent workflows** to speed up development, improve productivity, generate ideas, support research, automate tasks, and build smarter solutions across different use cases.
-
----
-
-##  What I Do
-
-- Build cross-platform mobile applications using **Flutter**
-- Design clean and scalable project structures
-- Integrate **REST APIs**, backend services, and third-party tools
-- Improve app performance and maintainability
-- Create smooth, responsive, and modern UI
-- Use **AI tools, agents, and automation workflows** to solve problems faster and work smarter
+- 📱 Flutter Developer specialized in cross-platform mobile applications
+- 💳 Experienced in **FinTech solutions**, including **banking** and **wallet apps**
+- 🏢 Built **ERP systems** including **HR**, **accounting**, and **warehouse solutions**
+- 🧱 Strong focus on **Clean Architecture** and **modular project structure**
+- 🤝 Comfortable working with cross-functional teams to deliver production-ready features
+- 🛠 Interested in improving development workflows using **AI tools**, **CI/CD**, and modern engineering practices
 
 ---
 
-##  Tech Stack
+## 💼 Experience Highlights
 
-<div align="center">
+### **Flutter Developer** — Futeric  
+**Sep 2024 – Present | Amman, Jordan**
+- Developed cross-platform Flutter applications for **FinTech and enterprise solutions**, including **banking**, **wallet**, and **HR ERP systems**
+- Applied **Clean Architecture** and modular structure to build scalable and maintainable applications
+- Worked closely with teams to enhance performance, resolve issues, and deliver reliable production-ready features
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,firebase,git,github,vscode,postman" />
+### **Flutter Developer** — Glyphs Marketing  
+**Dec 2022 – Apr 2024 | Georgia, USA**
+- Developed Flutter applications for marketing and business use cases
+- Built custom mobile solutions for analytics, data visualization, and campaign workflows
+- Integrated REST APIs and improved app quality through clean development standards
 
-</div>
+### **Flutter Developer** — SkyLine Software Company  
+**Sep 2020 – Sep 2022 | Amman, Jordan**
+- Developed mobile applications for **accounting** and **warehouse ERP solutions**
+- Worked directly with clients to understand requirements and deliver tailored business applications
+- Improved usability and user experience through testing, feedback, and continuous enhancement
+
+### **Technical Support / Mobile App Contributor** — Platige Media Production  
+**Oct 2020 – Oct 2021 | Doha, Qatar**
+- Provided technical support and resolved software-related issues
+- Assisted in the development and maintenance of media-focused mobile applications
 
 ---
 
-##  Core Skills
+## 🛠 Tech Stack
 
-```text
-Flutter • Dart • Python • Node.js
-REST APIs • Clean Architecture • Modular Code
-Microservices • Micro Frontends
-Responsive UI • Performance Optimization
-Debugging • Code Review • Team Collaboration
-AI Tools • Agents • Workflow Automation
+- **Flutter**
+- **Dart**
+- **Clean Architecture**
+- **Modular Architecture**
+- **REST APIs**
+- **Git & GitHub**
+- **CI/CD**
+- **Linux**
+- **AI-Assisted Development Tools**
+- **Python**
+- **Node.js**
+
+---
+
+## 📚 Education
+
+**Bachelor’s Degree in Computer Science**  
+Zarqa University  
+**Dec 2018 – Jun 2021**
+
+**Up-Skilling Program**  
+Hussein Technical University  
+**Jun 2021 – Sep 2021**  
+Completed a 360-hour certified program in:
+- Computer Networks (**CCNA**)
+- English Language
+- Employability Soft Skills
+
+---
+
+## 📜 Certifications & Courses
+
+- **AI for Project Management** — Udemy *(Feb 2026)*
+- **DevOps** — TechWorld with Nana *(Oct 2025)*
+- **Clean Code** — Udemy *(Aug 2023)*
+- **Node.js: The Complete Guide** — Udemy *(Dec 2022)*
+- **Flutter & Dart: The Complete Guide** — Udemy *(Apr 2021)*
+- **Software Developer Trainee** — App Trainers *(Feb 2021)*
+
+---
+
+## 🌍 Languages
+
+- **Arabic** — Native
+- **English** — Professional Working Proficiency
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** [a.hanini111@gmail.com](mailto:a.hanini111@gmail.com)
+- **LinkedIn:** [linkedin.com/in/a7md-hanini](https://linkedin.com/in/a7md-hanini)
+- **GitHub:** [github.com/a7mdhanini](https://github.com/a7mdhanini)
+
+---
+
+## ⚡ What I Care About
+
+I enjoy building applications that are:
+- Clean and maintainable
+- Scalable and production-ready
+- Secure and user-focused
+- Helpful for real business needs
+
+---
+
+## 📌 Current Focus
+
+- Building better **Flutter architectures**
+- Improving development speed with **AI tools**
+- Learning more about **DevOps**, **CI/CD**, and modern delivery workflows
+- Creating polished mobile experiences for **FinTech** and **business systems**
